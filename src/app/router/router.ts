@@ -5,7 +5,7 @@ const router = Router()
 
 const moduleRoute = [
     {
-        path:'/',
+        path:'/auth',
         route: AuthRoute
     }
 ]
