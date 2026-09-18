@@ -1,4 +1,2 @@
 node_modules
 .env
-branch_structure.json
-.gitignore
